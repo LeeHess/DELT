@@ -1590,3 +1590,175 @@ LogInit: Object subsystem initialized
 [2017.12.09-04.46.27:248][501]LogSavePackage: Save=43.17ms
 [2017.12.09-04.46.27:248][501]LogSavePackage: Moving '../../../../../../Users/Lee/Desktop/GameJam2017/SLAY/Saved/EnemyBP8D10A70A4C1820AEA90B0B9A0ECC24AE.tmp' to '../../../../../../Users/Lee/Desktop/GameJam2017/SLAY/Content/Enemy/EnemyBP.uasset'
 [2017.12.09-04.46.27:251][501]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Lee/Desktop/GameJam2017/SLAY/Content/Enemy/EnemyBP.uasset
+[2017.12.09-04.52.01:785][616]LogMaterial: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2017.12.09-04.52.31:678][211]BlueprintLog: New page: Compile EnemyBP
+[2017.12.09-04.52.32:752][243]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/EnemyBP" FILE="../../../../../../Users/Lee/Desktop/GameJam2017/SLAY/Content/Enemy/EnemyBP.uasset" SILENT=true
+[2017.12.09-04.52.32:805][243]LogSavePackage: Save=43.89ms
+[2017.12.09-04.52.32:805][243]LogSavePackage: Moving '../../../../../../Users/Lee/Desktop/GameJam2017/SLAY/Saved/EnemyBP940D5856414E6FBEF022FAB76296F33B.tmp' to '../../../../../../Users/Lee/Desktop/GameJam2017/SLAY/Content/Enemy/EnemyBP.uasset'
+[2017.12.09-04.52.32:808][243]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Lee/Desktop/GameJam2017/SLAY/Content/Enemy/EnemyBP.uasset
+[2017.12.09-04.54.44:722][620]LogBlueprint: Warning: [EnemyBP] 'GunOffset' variable not found. Base class was probably changed. /Game/Enemy/EnemyBP.EnemyBP
+[2017.12.09-04.54.44:722][620]LogBlueprint: Warning: [EnemyBP] 'Sphere' variable not found. Base class was probably changed. /Game/Enemy/EnemyBP.EnemyBP
+[2017.12.09-04.54.44:722][620]LogBlueprint: Warning: [EnemyBP] 'FirstPersonCamera' variable not found. Base class was probably changed. /Game/Enemy/EnemyBP.EnemyBP
+[2017.12.09-04.55.53:595][700]LogEditorTransaction: Undo Delete current selection
+[2017.12.09-04.55.53:953][712]LogEditorTransaction: Undo Create Pin Link
+[2017.12.09-04.55.54:618][745]LogEditorTransaction: Undo Add Node
+[2017.12.09-04.55.55:329][784]LogEditorTransaction: Undo Delete current selection
+[2017.12.09-04.55.56:100][826]LogEditorTransaction: Undo Move Node
+[2017.12.09-04.55.56:646][855]LogEditorTransaction: Undo Move Nodes
+[2017.12.09-04.55.58:141][941]LogEditorTransaction: Undo Paste clipboard contents
+[2017.12.09-04.56.13:933][816]LogEditorViewport: Clicking on Actor (LMB): EnemyBP_C (EnemyBP)
+[2017.12.09-04.56.24:064][381]Cmd: DELETE
+[2017.12.09-04.56.24:064][381]Cmd: ACTOR DELETE
+[2017.12.09-04.56.24:068][381]LogEditorActor: Deleted Actor: EnemyBP_C
+[2017.12.09-04.56.24:098][381]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2017.12.09-04.57.10:539][145]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/debug" FILE="../../../../../../Users/Lee/Desktop/GameJam2017/SLAY/Saved/Autosaves/Game/debug_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2017.12.09-04.57.10:685][145]LogSavePackage: Save=136.93ms
+[2017.12.09-04.57.10:685][145]LogSavePackage: Moving '../../../../../../Users/Lee/Desktop/GameJam2017/SLAY/Saved/debug_Auto118B6057D499F302A1E93C8AB88DF9D77.tmp' to '../../../../../../Users/Lee/Desktop/GameJam2017/SLAY/Saved/Autosaves/Game/debug_Auto1.umap'
+[2017.12.09-04.57.10:687][145]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Lee/Desktop/GameJam2017/SLAY/Saved/Autosaves/Game/debug_Auto1.umap
+[2017.12.09-04.57.10:689][145]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/debug' took 0.173
+[2017.12.09-04.57.10:689][145]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.173
+[2017.12.09-04.57.10:691][145]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter] ([1] browsable assets)...
+[2017.12.09-04.57.10:708][145]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter]
+[2017.12.09-04.57.10:708][145]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter]
+[2017.12.09-04.57.10:838][145]LogSavePackage: Save=121.35ms
+[2017.12.09-04.57.10:838][145]LogSavePackage: Moving '../../../../../../Users/Lee/Desktop/GameJam2017/SLAY/Saved/FirstPersonCharacter_Auto1E8A654304DAB20E0196DC9BC4A9D6CA1.tmp' to '../../../../../../Users/Lee/Desktop/GameJam2017/SLAY/Saved/Autosaves/Game/FirstPersonBP/Blueprints/FirstPersonCharacter_Auto1.uasset'
+[2017.12.09-04.57.10:839][145]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Lee/Desktop/GameJam2017/SLAY/Saved/Autosaves/Game/FirstPersonBP/Blueprints/FirstPersonCharacter_Auto1.uasset
+[2017.12.09-04.57.10:840][145]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Enemy/EnemyBP] ([1] browsable assets)...
+[2017.12.09-04.57.10:856][145]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Enemy/EnemyBP.EnemyBP]
+[2017.12.09-04.57.10:856][145]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemy/EnemyBP]
+[2017.12.09-04.57.10:856][145]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/EnemyBP" FILE="../../../../../../Users/Lee/Desktop/GameJam2017/SLAY/Saved/Autosaves/Game/Enemy/EnemyBP_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2017.12.09-04.57.10:905][145]LogSavePackage: Save=44.64ms
+[2017.12.09-04.57.10:905][145]LogSavePackage: Moving '../../../../../../Users/Lee/Desktop/GameJam2017/SLAY/Saved/EnemyBP_Auto1D0E2A9D24E5805B88F7A45AC6775C080.tmp' to '../../../../../../Users/Lee/Desktop/GameJam2017/SLAY/Saved/Autosaves/Game/Enemy/EnemyBP_Auto1.uasset'
+[2017.12.09-04.57.10:905][145]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Lee/Desktop/GameJam2017/SLAY/Saved/Autosaves/Game/Enemy/EnemyBP_Auto1.uasset
+[2017.12.09-04.57.10:905][145]LogFileHelpers: Auto-saving content packages took 0.215
+[2017.12.09-05.07.19:336][592]LogEditorTransaction: Undo Modify Component(s)
+[2017.12.09-05.07.22:745][780]LogEditorTransaction: Undo Modify Component(s)
+[2017.12.09-05.07.23:328][800]LogEditorTransaction: Undo Modify Component(s)
+[2017.12.09-05.07.23:749][823]LogEditorTransaction: Undo Modify Component(s)
+[2017.12.09-05.07.24:167][846]LogEditorTransaction: Undo Modify Component(s)
+[2017.12.09-05.08.16:095][901]BlueprintLog: New page: Compile NewPlayerCharacter
+[2017.12.09-05.08.16:988][929]LogSavePackage: Save=45.15ms
+[2017.12.09-05.08.16:988][929]LogSavePackage: Moving '../../../../../../Users/Lee/Desktop/GameJam2017/SLAY/Saved/NewPlayerCharacter3A6F278E4485F09B04362695CC960406.tmp' to '../../../../../../Users/Lee/Desktop/GameJam2017/SLAY/Content/FirstPersonBP/Blueprints/NewPlayerCharacter.uasset'
+[2017.12.09-05.08.16:990][929]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Lee/Desktop/GameJam2017/SLAY/Content/FirstPersonBP/Blueprints/NewPlayerCharacter.uasset
+[2017.12.09-05.09.17:528][483]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/debug' took 0.022
+[2017.12.09-05.09.17:531][483]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPersonBP/Blueprints/NewPlayerCharacter] ([1] browsable assets)...
+[2017.12.09-05.09.17:531][483]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/NewPlayerCharacter]
+[2017.12.09-05.09.17:583][483]LogSavePackage: Save=48.94ms
+[2017.12.09-05.09.17:583][483]LogSavePackage: Moving '../../../../../../Users/Lee/Desktop/GameJam2017/SLAY/Saved/NewPlayerCharacter_Auto24F3CCACA47EBCF52FD9D7EB0A2678E2F.tmp' to '../../../../../../Users/Lee/Desktop/GameJam2017/SLAY/Saved/Autosaves/Game/FirstPersonBP/Blueprints/NewPlayerCharacter_Auto2.uasset'
+[2017.12.09-05.09.17:584][483]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Lee/Desktop/GameJam2017/SLAY/Saved/Autosaves/Game/FirstPersonBP/Blueprints/NewPlayerCharacter_Auto2.uasset
+[2017.12.09-05.09.17:585][483]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Enemy/EnemyBP] ([1] browsable assets)...
+[2017.12.09-05.09.17:602][483]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Enemy/EnemyBP.EnemyBP]
+[2017.12.09-05.09.17:602][483]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemy/EnemyBP]
+[2017.12.09-05.09.17:602][483]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/EnemyBP" FILE="../../../../../../Users/Lee/Desktop/GameJam2017/SLAY/Saved/Autosaves/Game/Enemy/EnemyBP_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2017.12.09-05.09.17:655][483]LogSavePackage: Save=43.24ms
+[2017.12.09-05.09.17:655][483]LogSavePackage: Moving '../../../../../../Users/Lee/Desktop/GameJam2017/SLAY/Saved/EnemyBP_Auto263F39A494D32D70E43B7A996423BDFA9.tmp' to '../../../../../../Users/Lee/Desktop/GameJam2017/SLAY/Saved/Autosaves/Game/Enemy/EnemyBP_Auto2.uasset'
+[2017.12.09-05.09.17:656][483]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Lee/Desktop/GameJam2017/SLAY/Saved/Autosaves/Game/Enemy/EnemyBP_Auto2.uasset
+[2017.12.09-05.09.17:656][483]LogFileHelpers: Auto-saving content packages took 0.127
+[2017.12.09-05.14.24:890][706]BlueprintLog: New page: Compile EnemyBP
+[2017.12.09-05.14.25:849][730]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/EnemyBP" FILE="../../../../../../Users/Lee/Desktop/GameJam2017/SLAY/Content/Enemy/EnemyBP.uasset" SILENT=true
+[2017.12.09-05.14.25:904][730]LogSavePackage: Save=43.53ms
+[2017.12.09-05.14.25:904][730]LogSavePackage: Moving '../../../../../../Users/Lee/Desktop/GameJam2017/SLAY/Saved/EnemyBP01E37A89410E3EF6D03A28AB4D869831.tmp' to '../../../../../../Users/Lee/Desktop/GameJam2017/SLAY/Content/Enemy/EnemyBP.uasset'
+[2017.12.09-05.14.25:912][730]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Lee/Desktop/GameJam2017/SLAY/Content/Enemy/EnemyBP.uasset
+[2017.12.09-05.15.30:795][585]BlueprintLog: New page: Compile NewPlayerCharacter
+[2017.12.09-05.15.30:816][585]LogBlueprint: Error: [Compiler NewPlayerCharacter] Failed to resolve term  Value  passed into  Target
+[2017.12.09-05.15.31:039][585]LogBlueprint: Warning: [Compiler NewPlayerCharacter] [6221.20] Compile of NewPlayerCharacter failed. 1 Fatal Issue(s) 0 Warning(s) [in 243 ms] (/Game/FirstPersonBP/Blueprints/NewPlayerCharacter.NewPlayerCharacter)
+[2017.12.09-05.15.44:157][361]LogEditorTransaction: Undo Change Number Pin Value
+[2017.12.09-05.15.49:345][655]LogEditorTransaction: Undo Move Node
+[2017.12.09-05.15.52:954][855]BlueprintLog: New page: Compile NewPlayerCharacter
+[2017.12.09-05.15.52:973][855]LogBlueprint: Error: [Compiler NewPlayerCharacter] Failed to resolve term  Value  passed into  Target
+[2017.12.09-05.15.53:192][855]LogBlueprint: Warning: [Compiler NewPlayerCharacter] [6243.35] Compile of NewPlayerCharacter failed. 1 Fatal Issue(s) 0 Warning(s) [in 238 ms] (/Game/FirstPersonBP/Blueprints/NewPlayerCharacter.NewPlayerCharacter)
+[2017.12.09-05.16.08:678][770]BlueprintLog: New page: Compile NewPlayerCharacter
+[2017.12.09-05.16.09:708][811]LogSavePackage: Save=48.58ms
+[2017.12.09-05.16.09:708][811]LogSavePackage: Moving '../../../../../../Users/Lee/Desktop/GameJam2017/SLAY/Saved/NewPlayerCharacter59C966E44F425F347B14B184D276D337.tmp' to '../../../../../../Users/Lee/Desktop/GameJam2017/SLAY/Content/FirstPersonBP/Blueprints/NewPlayerCharacter.uasset'
+[2017.12.09-05.16.09:713][811]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Lee/Desktop/GameJam2017/SLAY/Content/FirstPersonBP/Blueprints/NewPlayerCharacter.uasset
+[2017.12.09-05.16.12:920][974]BlueprintLog: New page: Compile EnemyBP
+[2017.12.09-05.16.14:245][ 24]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/EnemyBP" FILE="../../../../../../Users/Lee/Desktop/GameJam2017/SLAY/Content/Enemy/EnemyBP.uasset" SILENT=true
+[2017.12.09-05.16.14:293][ 24]LogSavePackage: Save=43.34ms
+[2017.12.09-05.16.14:293][ 24]LogSavePackage: Moving '../../../../../../Users/Lee/Desktop/GameJam2017/SLAY/Saved/EnemyBP21B2B0B64A950F0A01E80DA774571D7A.tmp' to '../../../../../../Users/Lee/Desktop/GameJam2017/SLAY/Content/Enemy/EnemyBP.uasset'
+[2017.12.09-05.16.14:296][ 24]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Lee/Desktop/GameJam2017/SLAY/Content/Enemy/EnemyBP.uasset
+[2017.12.09-05.16.16:539][134]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.09-05.16.16:577][134]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/debug.debug:PersistentLevel' has LevelScriptBlueprint '/Game/debug.debug:PersistentLevel.debug' with GeneratedClass '/Game/debug.debug_C' with ClassGeneratedBy '/Game/debug.debug:PersistentLevel.debug'
+[2017.12.09-05.16.16:577][134]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.09-05.16.16:577][134]PIE: New page: PIE session: debug (Dec 8, 2017, 7:16:16 PM)
+[2017.12.09-05.16.16:577][134]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_debug
+[2017.12.09-05.16.16:584][134]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006728s)
+[2017.12.09-05.16.16:584][134]LogAIModule: Creating AISystem for world debug
+[2017.12.09-05.16.16:585][134]LogPlayLevel: PIE: World Init took: (0.000787s)
+[2017.12.09-05.16.16:585][134]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/debug.debug to /Game/UEDPIE_0_debug.debug (0.007822s)
+[2017.12.09-05.16.16:606][134]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.09-05.16.16:616][134]LogInit: FAudioDevice initialized.
+[2017.12.09-05.16.16:645][134]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.12.09-05.16.16:647][134]LogWorld: Bringing World /Game/UEDPIE_0_debug.debug up for play (max tick rate 60) at 2017.12.09-00.16.16
+[2017.12.09-05.16.16:647][134]LogWorld: Bringing up level for play took: 0.000990
+[2017.12.09-05.16.16:648][134]PIE: Play in editor start time for /Game/UEDPIE_0_debug -0.572
+[2017.12.09-05.16.16:649][134]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/debug.debug:PersistentLevel' has LevelScriptBlueprint '/Game/debug.debug:PersistentLevel.debug' with GeneratedClass '/Game/debug.debug_C' with ClassGeneratedBy '/Game/debug.debug:PersistentLevel.debug'
+[2017.12.09-05.16.17:901][205]LogBlueprintUserMessages: [NewPlayerCharacter_C_0] EnemyBP_54
+[2017.12.09-05.16.17:901][205]LogBlueprintUserMessages: [EnemyBP_54] 10.0
+[2017.12.09-05.16.19:517][302]LogBlueprintUserMessages: [NewPlayerCharacter_C_0] EnemyBP_54
+[2017.12.09-05.16.19:517][302]LogBlueprintUserMessages: [EnemyBP_54] 10.0
+[2017.12.09-05.16.20:317][350]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/debug.debug:PersistentLevel' has LevelScriptBlueprint '/Game/debug.debug:PersistentLevel.debug' with GeneratedClass '/Game/debug.debug_C' with ClassGeneratedBy '/Game/debug.debug:PersistentLevel.debug'
+[2017.12.09-05.16.20:362][350]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/debug.debug:PersistentLevel' has LevelScriptBlueprint '/Game/debug.debug:PersistentLevel.debug' with GeneratedClass '/Game/debug.debug_C' with ClassGeneratedBy '/Game/debug.debug:PersistentLevel.debug'
+[2017.12.09-05.16.30:120][908]BlueprintLog: New page: Compile NewPlayerCharacter
+[2017.12.09-05.16.30:990][938]LogSavePackage: Save=48.87ms
+[2017.12.09-05.16.30:990][938]LogSavePackage: Moving '../../../../../../Users/Lee/Desktop/GameJam2017/SLAY/Saved/NewPlayerCharacterBC6E9771441F9E2E93E4008C0C7381A1.tmp' to '../../../../../../Users/Lee/Desktop/GameJam2017/SLAY/Content/FirstPersonBP/Blueprints/NewPlayerCharacter.uasset'
+[2017.12.09-05.16.30:993][938]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Lee/Desktop/GameJam2017/SLAY/Content/FirstPersonBP/Blueprints/NewPlayerCharacter.uasset
+[2017.12.09-05.16.32:369][  5]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.09-05.16.32:396][  5]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/debug.debug:PersistentLevel' has LevelScriptBlueprint '/Game/debug.debug:PersistentLevel.debug' with GeneratedClass '/Game/debug.debug_C' with ClassGeneratedBy '/Game/debug.debug:PersistentLevel.debug'
+[2017.12.09-05.16.32:396][  5]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.09-05.16.32:396][  5]PIE: New page: PIE session: debug (Dec 8, 2017, 7:16:32 PM)
+[2017.12.09-05.16.32:396][  5]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_debug
+[2017.12.09-05.16.32:401][  5]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005048s)
+[2017.12.09-05.16.32:402][  5]LogAIModule: Creating AISystem for world debug
+[2017.12.09-05.16.32:402][  5]LogPlayLevel: PIE: World Init took: (0.000648s)
+[2017.12.09-05.16.32:402][  5]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/debug.debug to /Game/UEDPIE_0_debug.debug (0.006008s)
+[2017.12.09-05.16.32:424][  5]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.09-05.16.32:433][  5]LogInit: FAudioDevice initialized.
+[2017.12.09-05.16.32:464][  5]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.12.09-05.16.32:466][  5]LogWorld: Bringing World /Game/UEDPIE_0_debug.debug up for play (max tick rate 60) at 2017.12.09-00.16.32
+[2017.12.09-05.16.32:466][  5]LogWorld: Bringing up level for play took: 0.000926
+[2017.12.09-05.16.32:467][  5]PIE: Play in editor start time for /Game/UEDPIE_0_debug -0.753
+[2017.12.09-05.16.32:468][  5]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/debug.debug:PersistentLevel' has LevelScriptBlueprint '/Game/debug.debug:PersistentLevel.debug' with GeneratedClass '/Game/debug.debug_C' with ClassGeneratedBy '/Game/debug.debug:PersistentLevel.debug'
+[2017.12.09-05.16.33:791][ 82]LogBlueprintUserMessages: [NewPlayerCharacter_C_0] EnemyBP_54
+[2017.12.09-05.16.33:791][ 82]LogBlueprintUserMessages: [EnemyBP_54] 100.0
+[2017.12.09-05.16.33:791][ 82]LogBlueprintUserMessages: [EnemyBP_54] Enemy Died
+[2017.12.09-05.16.53:110][240]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/debug.debug:PersistentLevel' has LevelScriptBlueprint '/Game/debug.debug:PersistentLevel.debug' with GeneratedClass '/Game/debug.debug_C' with ClassGeneratedBy '/Game/debug.debug:PersistentLevel.debug'
+[2017.12.09-05.16.53:157][240]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/debug.debug:PersistentLevel' has LevelScriptBlueprint '/Game/debug.debug:PersistentLevel.debug' with GeneratedClass '/Game/debug.debug_C' with ClassGeneratedBy '/Game/debug.debug:PersistentLevel.debug'
+[2017.12.09-05.20.21:161][168]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/debug" FILE="../../../../../../Users/Lee/Desktop/GameJam2017/SLAY/Saved/Autosaves/Game/debug_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2017.12.09-05.20.21:312][168]LogSavePackage: Save=142.39ms
+[2017.12.09-05.20.21:312][168]LogSavePackage: Moving '../../../../../../Users/Lee/Desktop/GameJam2017/SLAY/Saved/debug_Auto3C8D82DBF47116A507AF60D8F05A86BF4.tmp' to '../../../../../../Users/Lee/Desktop/GameJam2017/SLAY/Saved/Autosaves/Game/debug_Auto3.umap'
+[2017.12.09-05.20.21:313][168]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Lee/Desktop/GameJam2017/SLAY/Saved/Autosaves/Game/debug_Auto3.umap
+[2017.12.09-05.20.21:316][168]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/debug' took 0.179
+[2017.12.09-05.20.21:316][168]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.179
+[2017.12.09-05.20.21:318][168]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPersonBP/Blueprints/NewPlayerCharacter] ([1] browsable assets)...
+[2017.12.09-05.20.21:318][168]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/NewPlayerCharacter]
+[2017.12.09-05.20.21:372][168]LogSavePackage: Save=49.09ms
+[2017.12.09-05.20.21:372][168]LogSavePackage: Moving '../../../../../../Users/Lee/Desktop/GameJam2017/SLAY/Saved/NewPlayerCharacter_Auto3B5F8DFFE4C70DF9D6B84778ACFAE5D77.tmp' to '../../../../../../Users/Lee/Desktop/GameJam2017/SLAY/Saved/Autosaves/Game/FirstPersonBP/Blueprints/NewPlayerCharacter_Auto3.uasset'
+[2017.12.09-05.20.21:373][168]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Lee/Desktop/GameJam2017/SLAY/Saved/Autosaves/Game/FirstPersonBP/Blueprints/NewPlayerCharacter_Auto3.uasset
+[2017.12.09-05.20.21:373][168]LogFileHelpers: Auto-saving content packages took 0.055
+[2017.12.09-05.22.04:685][983]BlueprintLog: New page: Compile NewPlayerCharacter
+[2017.12.09-05.30.22:029][ 42]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/debug' took 0.024
+[2017.12.09-05.30.22:031][ 42]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPersonBP/Blueprints/NewPlayerCharacter] ([1] browsable assets)...
+[2017.12.09-05.30.22:031][ 42]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/NewPlayerCharacter]
+[2017.12.09-05.30.22:091][ 42]LogSavePackage: Save=50.01ms
+[2017.12.09-05.30.22:091][ 42]LogSavePackage: Moving '../../../../../../Users/Lee/Desktop/GameJam2017/SLAY/Saved/NewPlayerCharacter_Auto4438AF3A64C517D2A95B32284B010CE01.tmp' to '../../../../../../Users/Lee/Desktop/GameJam2017/SLAY/Saved/Autosaves/Game/FirstPersonBP/Blueprints/NewPlayerCharacter_Auto4.uasset'
+[2017.12.09-05.30.22:093][ 42]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Lee/Desktop/GameJam2017/SLAY/Saved/Autosaves/Game/FirstPersonBP/Blueprints/NewPlayerCharacter_Auto4.uasset
+[2017.12.09-05.30.22:093][ 42]LogFileHelpers: Auto-saving content packages took 0.063
+[2017.12.09-05.30.50:660][899]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.12.09-05.33.39:759][962]BlueprintLog: New page: Compile EnemyBP
+[2017.12.09-05.33.41:007][  6]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/EnemyBP" FILE="../../../../../../Users/Lee/Desktop/GameJam2017/SLAY/Content/Enemy/EnemyBP.uasset" SILENT=true
+[2017.12.09-05.33.41:064][  6]LogSavePackage: Save=46.01ms
+[2017.12.09-05.33.41:064][  6]LogSavePackage: Moving '../../../../../../Users/Lee/Desktop/GameJam2017/SLAY/Saved/EnemyBP7A0A845E4398C5829EBE039CC109A8C5.tmp' to '../../../../../../Users/Lee/Desktop/GameJam2017/SLAY/Content/Enemy/EnemyBP.uasset'
+[2017.12.09-05.33.41:067][  6]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Lee/Desktop/GameJam2017/SLAY/Content/Enemy/EnemyBP.uasset
+[2017.12.09-05.33.42:991][100]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2017.12.09-05.33.43:091][100]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2017.12.09-05.33.45:004][202]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/debug" FILE="../../../../../../Users/Lee/Desktop/GameJam2017/SLAY/Content/debug.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.12.09-05.33.45:170][202]LogSavePackage: Save=139.88ms
+[2017.12.09-05.33.45:170][202]LogSavePackage: Moving '../../../../../../Users/Lee/Desktop/GameJam2017/SLAY/Saved/debugF9E7FE434640C3E33DC7A98CEBD83AFD.tmp' to '../../../../../../Users/Lee/Desktop/GameJam2017/SLAY/Content/debug.umap'
+[2017.12.09-05.33.45:178][202]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Lee/Desktop/GameJam2017/SLAY/Content/debug.umap
+[2017.12.09-05.33.45:209][202]LogFileHelpers: Saving map 'debug' took 0.270
+[2017.12.09-05.33.45:337][202]LogSavePackage: Save=114.18ms
+[2017.12.09-05.33.45:337][202]LogSavePackage: Moving '../../../../../../Users/Lee/Desktop/GameJam2017/SLAY/Saved/FirstPersonCharacter3F00660640CE0F7AED2675B1CB578859.tmp' to '../../../../../../Users/Lee/Desktop/GameJam2017/SLAY/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2017.12.09-05.33.45:343][202]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Lee/Desktop/GameJam2017/SLAY/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset
+[2017.12.09-05.33.45:400][202]LogSavePackage: Save=48.78ms
+[2017.12.09-05.33.45:400][202]LogSavePackage: Moving '../../../../../../Users/Lee/Desktop/GameJam2017/SLAY/Saved/NewPlayerCharacterF7DEC9394EF7633073207FA25A514415.tmp' to '../../../../../../Users/Lee/Desktop/GameJam2017/SLAY/Content/FirstPersonBP/Blueprints/NewPlayerCharacter.uasset'
+[2017.12.09-05.33.45:402][202]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Lee/Desktop/GameJam2017/SLAY/Content/FirstPersonBP/Blueprints/NewPlayerCharacter.uasset
